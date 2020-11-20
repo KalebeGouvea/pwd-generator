@@ -6,6 +6,7 @@
 
 ### Descrição do projeto
 <p align="justify"> Programa desenvolvido em Python que gera senhas aleatórias baseadas no tamanho e tipo de caracteres informados.</p>
+
 > Status do projeto: Concluido :heavy_check_mark:
 
 ### Funcionalidades
